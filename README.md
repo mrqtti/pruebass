@@ -7,7 +7,7 @@
             </head>
             <body>
                 <h1>Hola amor</h1>
-                    <h3>Perdón por el desastre pero es la primera vez que hago una página web pública sin la necesidad de que vos te 8stales el vscode.</h3>
+                    <h3>Perdón por el desastre pero es la primera vez que hago una página web pública sin la necesidad de que te instales el vscode.</h3>
                     <br>
                             <em style= color:pink > Te amo muchisimo, ¿sabías?</em>
                                 <i style="color:lightskyblue">Sos muy importante para mi, en serio, y por eso te dedico esta página web única y específicamente para vos.<3 </i>
